@@ -1,2 +1,2 @@
-# vertical-scroll-gallery
+# vertical-scroll-carousel (IN PROGRESS)
 Carousel with vertical scroll
